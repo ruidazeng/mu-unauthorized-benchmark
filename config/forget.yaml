@@ -1,4 +1,4 @@
-model_family: llama2-7b
+model_family: phi
 model_path: null
 LoRA:
   r: 0

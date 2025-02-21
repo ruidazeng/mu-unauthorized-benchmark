@@ -1,5 +1,5 @@
 model_id: microsoft/phi-1_5
-model_family: phi-1.5
+model_family: phi
 
 LoRA:
   r: 8

@@ -1,4 +1,4 @@
-model_family: phi-1_5
+model_family: phi
 
 LoRA:
   r: 0

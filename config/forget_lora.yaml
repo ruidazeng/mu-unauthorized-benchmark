@@ -1,4 +1,4 @@
-model_id: NousResearch/Llama-2-7b-chat-hf
+model_id: microsoft/phi-1_5
 model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
 LoRA:
   r: 8

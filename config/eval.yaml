@@ -16,4 +16,4 @@ ds_size: 100
 overwrite: true
 use_pretrained: false
 
-model_family: llama2-7b
+model_family: phi

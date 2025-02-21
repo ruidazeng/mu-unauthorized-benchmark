@@ -1,5 +1,5 @@
 model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
-model_family: llama2-7b
+model_family: phi
 
 save_dir: ${model_path}/eval_results/ds_size${ds_size}
 
