@@ -1,5 +1,0 @@
-- split=full
-- batch_size=4
-- gradient_accumulation_steps=4
-- model_family=phi
-- lr=2e-5
