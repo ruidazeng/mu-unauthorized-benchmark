@@ -1,3 +1,3 @@
-# MU-Benchmark
-A benchmark and evaluations for machine unlearning - unauthorized data access
+# Machine Unlearning Unauthorized Data Benchmark
 
+A benchmark for machine unlearning regarding unauthorized data usage in training.
